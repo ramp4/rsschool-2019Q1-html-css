@@ -2,4 +2,3 @@
 
 Artsem Balunda
 HTML CSS Basics: https://www.codecademy.com/users/ramp4/achievements
-HTML CSS Basics: https://www.codecademy.com/users/ramp4/achievements
